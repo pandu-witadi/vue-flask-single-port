@@ -1,0 +1,6 @@
+# server directory
+server_flask/venv
+
+# client directory
+client_vue/node_modules
+client_vue/dist
